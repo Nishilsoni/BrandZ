@@ -39,6 +39,15 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
+   
+  provider: ^6.0.0
+  cloud_firestore: ^3.1.5
+  firebase_core: ^1.10.6
+  firebase_storage: ^10.1.4
+  firebase_auth: ^3.3.4
+  image_picker: ^0.8.4+3
+  fluttertoast: ^8.0.8
+
 
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
