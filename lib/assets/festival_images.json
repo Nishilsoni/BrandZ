@@ -1,0 +1,29 @@
+[
+    {
+      "name": "Diwali Celebration",
+      "description": "Brighten your Diwali with the joy of lights and festive cheer.",
+      "imageUrl": " https://www.svgrepo.com/show/490895/diwali.svg"
+    },
+    {
+      "name": "Christmas Tree",
+      "description": "A beautifully decorated Christmas tree to bring holiday spirit.",
+      "imageUrl": " https://www.svgrepo.com/show/489563/christmas-tree.svg"
+    },
+    {
+      "name": "New Year Fireworks",
+      "description": "Celebrate the New Year with stunning fireworks displays.",
+      "imageUrl": "https://www.svgrepo.com/show/395575/fireworks.svg"
+    },
+    {
+      "name": "Eid Mubarak",
+      "description": "Warm wishes for a blessed Eid filled with peace and joy.",
+      "imageUrl": " https://www.svgrepo.com/show/376193/eid-mubarak.svg"
+    },
+    {
+      "name": "Thanksgiving Feast",
+      "description": "A bountiful Thanksgiving dinner with family and friends.",
+      "imageUrl": " https://www.svgrepo.com/show/491537/thanksgiving.svg"
+    }
+ 
+  ]
+  
